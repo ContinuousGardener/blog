@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Best X Architecture Design Buildings to See in Barcelona
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Barcelona is a famous city in Spain with many buildings to see.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
